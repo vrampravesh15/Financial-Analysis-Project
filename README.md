@@ -8,7 +8,7 @@ The *Financial Analysis Project* evaluates business performance using key metric
 ---
 
 ### **Excel File**
-**File:** `Project-2-Financial_Analysis_Report.xlsx`  
+**File:** `Financial_Analysis_Report.xlsx`  
 - Input *income* and *expense* data.  
 - View **profit calculations** and **charts**.  
 - Navigate through sheets for detailed insights.
@@ -16,7 +16,7 @@ The *Financial Analysis Project* evaluates business performance using key metric
 ---
 
 ### **Documentation**
-**File:** `Project-2-Financial-Analysis-Project-Documentation.pdf`  
+**File:** `Financial-Analysis-Project-Documentation.pdf`  
 - Describes project *objectives* and *methods*.  
 - Includes *financial ratios*, *summaries*, and *visual analysis*.
 
